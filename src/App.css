@@ -1,0 +1,18 @@
+.background {
+    background-color: #fff8e8;
+}
+
+.input {
+    background-color: #d9d9d9;
+}
+
+.button {
+    background-color: #1c7d66;
+}
+
+.bag-logger-container {
+    overflow: hidden;
+    height: screen;
+    width: screen;
+    background-position: center;
+  }
